@@ -9,6 +9,7 @@ alert(admin)
 const namePlanet = "Terra";
 const nameUser = "John";
 
+
 const value = "10" + 10;
 console.log(value);
 console.log(typeof(value));
