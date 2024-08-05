@@ -6,9 +6,9 @@ name = "John";
 admin = name;
 alert(admin)
 
-let namePlanet = "Terra";
-let nameUser = "John";
+const namePlanet = "Terra";
+const nameUser = "John";
 
-let value = "10" + 10;
+const value = "10" + 10;
 console.log(value);
 console.log(typeof(value));
