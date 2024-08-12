@@ -1,7 +1,7 @@
 "use strict"
 
 const name = prompt('enter your name');
-let age = prompt('enter your age');
+const age = prompt('enter your age');
 const likesProgramming = confirm('do you like programming');
 
 
